@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TextRecognition</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="display_detected_text_from_image">Display Detected Text from Image</string>
+    <string name="release_image">Release Image</string>
+</resources>
